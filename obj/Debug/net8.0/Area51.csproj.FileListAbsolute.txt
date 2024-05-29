@@ -1,0 +1,14 @@
+C:\Users\yani\source\repos\Area51\Area51\bin\Debug\net8.0\Area51.exe
+C:\Users\yani\source\repos\Area51\Area51\bin\Debug\net8.0\Area51.deps.json
+C:\Users\yani\source\repos\Area51\Area51\bin\Debug\net8.0\Area51.runtimeconfig.json
+C:\Users\yani\source\repos\Area51\Area51\bin\Debug\net8.0\Area51.dll
+C:\Users\yani\source\repos\Area51\Area51\bin\Debug\net8.0\Area51.pdb
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\Area51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\Area51.AssemblyInfoInputs.cache
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\Area51.AssemblyInfo.cs
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\Area51.csproj.CoreCompileInputs.cache
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\Area51.dll
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\refint\Area51.dll
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\Area51.pdb
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\Area51.genruntimeconfig.cache
+C:\Users\yani\source\repos\Area51\Area51\obj\Debug\net8.0\ref\Area51.dll
